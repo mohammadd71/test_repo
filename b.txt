@@ -1,9 +1,4 @@
 version 1 by github
 line2 by github
 line 3 by desktop
-<<<<<<< HEAD
 line 4 by desktop 
-=======
-
-line  by github
->>>>>>> ac88e33d8ad1089005549a40f2f1fb8103a93dbb
