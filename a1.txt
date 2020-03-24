@@ -2,3 +2,4 @@ line 1 correct
 line 2 correct
 line 3 wrong
 line 4 correct
+line 5 correct
